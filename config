@@ -1,0 +1,19 @@
+# Initiate with dimensions
+window-width = 250
+window-height = 60
+
+# Styling
+macos-titlebar-style = native
+macos-titlebar-style = transparent
+# background-opacity = 0.95
+# background-blur=1
+
+# Text
+font-family = JetBrainsMonoNL Nerd Font Mono
+
+# macOS specific settings
+keybind = alt+left=unbind
+keybind = alt+right=unbind
+macos-option-as-alt = true
+
+shell-integration = fish
