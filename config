@@ -5,6 +5,7 @@ window-height = 60
 # Styling
 macos-titlebar-style = native
 macos-titlebar-style = transparent
+theme = Catppuccin Macchiato
 # background-opacity = 0.95
 # background-blur=1
 
